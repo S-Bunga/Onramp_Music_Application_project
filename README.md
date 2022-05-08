@@ -2,7 +2,9 @@ To sart music application
 on command prompt cd set path
 to open music app type npm start
 
-![image](https://user-images.githubusercontent.com/49541860/167302189-292e754b-532f-476a-a7b2-28f4e7709f7c.png)
+Music app screenshot with play and pause button modes
+
+![image](https://user-images.githubusercontent.com/49541860/167302601-bd983a2f-60a3-45b1-8d54-bdf22a1c7922.png)
 
 # Getting Started with Create React App
 
