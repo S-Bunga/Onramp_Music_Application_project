@@ -6,6 +6,9 @@ Music app screenshot with play and pause button modes
 
 ![image](https://user-images.githubusercontent.com/49541860/167302601-bd983a2f-60a3-45b1-8d54-bdf22a1c7922.png)
 
+![image](https://user-images.githubusercontent.com/49541860/167302804-4c807b14-0c75-448a-a55c-5030006efe3f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
