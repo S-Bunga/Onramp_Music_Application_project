@@ -5,9 +5,11 @@ to open music app type npm start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
-Music app screenshot with play and pause button modes
+Music application screenshots with play and pause buttons
 
 ![image](https://user-images.githubusercontent.com/49541860/167302601-bd983a2f-60a3-45b1-8d54-bdf22a1c7922.png)
+
+Below is the screenshot when user clicks to play music
 
 ![image](https://user-images.githubusercontent.com/49541860/167302804-4c807b14-0c75-448a-a55c-5030006efe3f.png)
 
