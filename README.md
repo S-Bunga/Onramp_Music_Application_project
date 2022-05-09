@@ -1,15 +1,20 @@
-To sart music application
-on command prompt cd set path
-to open music app type npm start
+**Onramp Music Application Project**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser
+This application is a Music Application that allows users save, search, and play a list of songs and podcasts.
 
-Music application screenshots with play and pause buttons
+**To start the application**
+
+To start the application, one needs to set the path on the command prompt to project directory and issue the command:
+npm start
+
+The application will run on your default browser @ http://localhost:3000
+
+
+**Music application screenshots with play and pause buttons**
 
 ![image](https://user-images.githubusercontent.com/49541860/167302601-bd983a2f-60a3-45b1-8d54-bdf22a1c7922.png)
 
-Below is the screenshot when user clicks to play music
+**Below is the screenshot when user clicks to play music**
 
 ![image](https://user-images.githubusercontent.com/49541860/167302804-4c807b14-0c75-448a-a55c-5030006efe3f.png)
 
