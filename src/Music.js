@@ -24,6 +24,7 @@ const Music = () => {
       });
   }, []);
 
+  
   return (
     <div className="main-container col-lg-12 col-md-12">
       <h1 className="col-lg-6"> </h1>
