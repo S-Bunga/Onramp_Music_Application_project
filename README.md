@@ -1,6 +1,6 @@
 **Onramp Music Application Project**
 
-This application is a Music Application that allows users save, search, and play a list of songs and podcasts.
+This application is a Music Application that allows users play a list of songs and podcasts.
 
 **To start the application**
 
